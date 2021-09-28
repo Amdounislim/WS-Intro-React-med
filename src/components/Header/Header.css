@@ -1,0 +1,17 @@
+header img {
+    width: 20%;
+}
+
+header {
+    height: 70px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    width: 20%;
+}
